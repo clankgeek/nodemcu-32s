@@ -1,2 +1,2 @@
 # nodemcu-32s
-some example with ESP32 Node MCU 32S
+some sample with Arduino ESP32 Node MCU 32S

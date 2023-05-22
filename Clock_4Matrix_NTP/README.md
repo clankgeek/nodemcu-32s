@@ -7,3 +7,5 @@ Connect 4x Matrix LED to ESP32 :
 - Matrix CLK -> GPIO 18 "V_SPI_CLK"
 - Matrix CS -> GPIO 17
 - Matrix VCC -> 5v
+
+![clock](clock.jpg)
